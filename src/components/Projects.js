@@ -53,6 +53,7 @@ export const Projects = () => {
       title: "Este projeto",
       description: "Portfólio de um excelente profissional, desenvolvido com React xD",
       imgUrl: portfolio,
+      projectLink:"https://github.com/chruscinskiDiego/portfolio-website",
 
     },
   ];
