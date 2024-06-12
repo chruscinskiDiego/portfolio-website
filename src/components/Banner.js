@@ -10,7 +10,7 @@ export const Banner = () => {
   const [text, setText] = useState('');
   const [delta, setDelta] = useState(300 - Math.random() * 100);
   const [index, setIndex] = useState(1);
-  const toRotate = [ "Chruscinski de Souza", ":)"];
+  const toRotate = [ "Chruscinski", ":)"];
   const period = 200;
 
   useEffect(() => {
@@ -53,9 +53,9 @@ export const Banner = () => {
           <Col xs={12} md={6} xl={7}>
             <TrackVisibility>
               {({ isVisible }) =>
-              <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
+              <div className={isVisible ? "animate__animated animate__fadeIn" : ""} >
                 <span className="tagline">"Olá, bem-vindo ao meu espaço digital!</span>
-                <h1>{`Me chamo Diego`} <span className="txt-rotate" dataPeriod="200" data-rotate='[ "Chruscinski de Souza", "."]'><span className="wrap">{text}</span></span></h1>
+                <h1>{`Me chamo Diego`} <span className="txt-rotate" dataPeriod="200" data-rotate='[ "Chruscinski"]'><span className="wrap">{text}</span></span></h1>
                   <p>Sou um entusiasta da tecnologia, em constante busca por conhecimento e experiência. Este é o meu portfólio, onde compartilho meus projetos e aprendizados enquanto estudo para me tornar um grande desenvolvedor de software. Explore meu trabalho e acompanhe minha jornada de aprendizado!</p>
               </div>}
             </TrackVisibility>

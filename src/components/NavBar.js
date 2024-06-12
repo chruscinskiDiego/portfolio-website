@@ -52,7 +52,7 @@ export const NavBar = () => {
               <div className="social-icon">
                 <a href="https://www.linkedin.com/in/diego-chruscinski/" target="_blank"><img src={navIcon1} alt="" /></a>
                 <a href="https://github.com/chruscinskiDiego/" target="_blank"><img src={navIcon2} alt="" /></a>
-                <a href="https://www.instagram.com/diegochruscinski/"target="_blank"><img src={navIcon3} alt="" /></a>
+                <a href="https://www.instagram.com/diegochruscinski/" target="_blank"><img src={navIcon3} alt="" /></a>
               </div>
               <HashLink to='mailto:contato@diegochruscinski.com.br'>
                 <button className="vvd"><span >Me envie um e-mail!</span></button>
