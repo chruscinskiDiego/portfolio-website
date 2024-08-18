@@ -24,17 +24,17 @@ export const AboutMe = () => {
                   <span className="tagline">Carreira:</span>
                   
                   <ul class="timeline">
+                  <li>
+                    <span>Desenvolvedor de Software<h2 className="company">Linx</h2></span>
+                      <span>2024 - o momento</span>
+                    </li>
                     <li>
                     <span>Analista de Suporte PL na <h2 className="company">Linx Sponte</h2></span>
-                      <span>2023 - o momento</span>
+                      <span>2023 - 2024</span>
                     </li>
                     <li>
                       <span>Analista de Suporte JR na <h2 className="company">Hábil Software</h2></span>
                       <span>2022 - 2023</span>
-                    </li>
-                    <li>
-                      <span><h2>Freelance</h2></span>
-                      <span>2022 - 2024</span>
                     </li>
                   </ul>
 
