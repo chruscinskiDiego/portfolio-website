@@ -1,19 +1,19 @@
-# Portfólio Web
+# Web Portfolio (Legacy)
 
-Bem-vindo ao meu portfólio web! Este projeto foi criado para exibir meus trabalhos, habilidades e experiência como desenvolvedor.
+Welcome to my **legacy web portfolio**! This project was created to showcase my work, skills, and experience as a developer.
 
-## Acesso ao Portfólio
+## Portfolio Access
 
-Você pode acessar meu portfólio através do seguinte link:
+You can access the portfolio at:
 
 [https://diego-chruscinski.vercel.app/](https://diego-chruscinski.vercel.app/)
 
-## Tecnologias Utilizadas
+## Technologies Used
 
-Este projeto foi construído utilizando as seguintes tecnologias:
+This project was built using the following technologies:
 
-- **HTML**: Utilizado para a estrutura básica do site.
-- **CSS**: Utilizado para estilização e layout.
-- **JavaScript**: Utilizado para adicionar interatividade ao site.
-- **Bootstrap**: Utilizado para facilitar a criação de um layout responsivo e componentes estilizados.
-- **React**: Utilizado como framework principal para a construção da interface do usuário.
+- **HTML**: Used for the basic structure of the website.
+- **CSS**: Used for styling and layout.
+- **JavaScript**: Used to add interactivity to the site.
+- **Bootstrap**: Used to speed up responsive layout and styled components.
+- **React**: Used as the main framework for building the user interface.
