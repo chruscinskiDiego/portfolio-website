@@ -1,25 +1,25 @@
-# Portfólio web — versão anterior
+# Portfolio website — previous version
 
-Versão anterior do meu portfólio pessoal, desenvolvida em React para apresentar trajetória, competências e projetos.
+Previous version of my personal portfolio, built with React to present my background, skills and projects.
 
-**Portfólio atual:** [diegochruscinski.com](https://diegochruscinski.com).
+**Current portfolio:** [diegochruscinski.com](https://diegochruscinski.com).
 
-## Tecnologias
+## Technologies
 
-React, Create React App, Bootstrap e bibliotecas de componentes e animação relacionadas em package.json.
+React, Create React App, Bootstrap and the component and animation libraries listed in package.json.
 
-## Executar localmente
+## Run locally
 
 ```bash
 npm ci
 npm start
 ```
 
-## Comandos
+## Commands
 
-- `npm run build`: build estático.
-- `npm test`: inicia o executor de testes do projeto.
+- `npm run build`: static build.
+- `npm test`: starts the project's test runner.
 
-## Contexto
+## Context
 
-Este repositório preserva uma versão anterior do portfólio. Consulte o endereço atual para informações profissionais e projetos mais recentes. A aplicação não é o código-fonte do site atual.
+This repository preserves an earlier portfolio version. Visit the current website for updated professional information and projects. This is not the source of the current website.
