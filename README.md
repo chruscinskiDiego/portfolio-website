@@ -1,19 +1,25 @@
-# Web Portfolio (Legacy)
+# Portfólio web — versão anterior
 
-Welcome to my **legacy web portfolio**! This project was created to showcase my work, skills, and experience as a developer.
+Versão anterior do meu portfólio pessoal, desenvolvida em React para apresentar trajetória, competências e projetos.
 
-## Portfolio Access
+**Portfólio atual:** [diegochruscinski.com](https://diegochruscinski.com).
 
-You can access the portfolio at:
+## Tecnologias
 
-[https://diego-chruscinski.vercel.app/](https://diego-chruscinski.vercel.app/)
+React, Create React App, Bootstrap e bibliotecas de componentes e animação relacionadas em package.json.
 
-## Technologies Used
+## Executar localmente
 
-This project was built using the following technologies:
+```bash
+npm ci
+npm start
+```
 
-- **HTML**: Used for the basic structure of the website.
-- **CSS**: Used for styling and layout.
-- **JavaScript**: Used to add interactivity to the site.
-- **Bootstrap**: Used to speed up responsive layout and styled components.
-- **React**: Used as the main framework for building the user interface.
+## Comandos
+
+- `npm run build`: build estático.
+- `npm test`: inicia o executor de testes do projeto.
+
+## Contexto
+
+Este repositório preserva uma versão anterior do portfólio. Consulte o endereço atual para informações profissionais e projetos mais recentes. A aplicação não é o código-fonte do site atual.
